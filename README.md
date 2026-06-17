@@ -72,9 +72,6 @@ npm run dev
 - ⚙️ **Settings** — Profile, reminders, preferences
 - 💎 **Premium** — Subscription upgrade page
 
-## Supabase Project
-- **URL:** https://mqetkydjiqobhxrsiyhr.supabase.co
-- **Dashboard:** https://supabase.com/dashboard/project/mqetkydjiqobhxrsiyhr
-# Selva_App
+
 ## Prompt ( edha apadiye copy pani antigravity la paste paniru )
 analysis this complete project and understand the project mind and continue test this using chrome extension if you occur any error retity and debug that 
